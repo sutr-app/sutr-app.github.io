@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sutr-app.github.io/sitemap.xml
